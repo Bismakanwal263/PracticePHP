@@ -1,3 +1,5 @@
 variable
 function
 loop
+array
+conditions
